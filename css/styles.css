@@ -1,0 +1,10 @@
+h1{
+  color: blue;
+  text-align:center;
+}
+body{
+  background-color: skyblue;
+  background-image: url("dj.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}S
