@@ -1,4 +1,10 @@
 h1{
   color: blue;
   text-align:center;
+  background-color: blue;
 }
+body{
+        background-image: url(/home/abbiemurugi/Desktop/moringa-school-project/images/dj.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+      }
