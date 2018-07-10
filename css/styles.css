@@ -7,9 +7,9 @@ p{
 
 }
 body{
-        background-image: url("dj.png");
-        background-size: cover;
-        background-repeat: no-repeat;
+        background:url("image/dj.png");
+        /*background-size: cover;
+        background-repeat: no-repeat;*/
       }
 h4{
   text-align: center;
