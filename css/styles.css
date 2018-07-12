@@ -12,5 +12,9 @@ text-align: center
 }
 .info p{
 text-align: center
-}      
+}  
+.me{
+  text-align: center;
+  float: left;
+}    
 
