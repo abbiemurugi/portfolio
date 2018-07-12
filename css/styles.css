@@ -2,14 +2,15 @@ h1{
   color: blue;
   text-align:center;
 }
-p{
-  font-family: sans-serif;
 
-}
 body{
-        background:url("image/dj.png");
-        /*background-size: cover;
-        background-repeat: no-repeat;*/
-      }
+        background:url("../image/dj.png");
+        background-image:cover;
+}
 h4{
-  text-align: center;
+text-align: center
+}
+.info p{
+text-align: center
+}      
+
