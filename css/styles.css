@@ -1,22 +1,36 @@
 h1{
   color: brown;
   text-align:center;
+  text
 }
+body{
+  background-color: black;background-image: -webkit-radial-gradient(blue)
 
+}
       
 h4{
  text-align: center;
+ color: white;
 }
 .info p, h3{
 text-align: center;
+color: white;
+
 
 }  
-.me p, h{
-  text-align: center;
-  color: blue;
-}    
+.container{
+  color: white;
+}  
 img{
   border-radius: 50%;
   float: right;
-
+  height: 500px;
+}
+#red{
+  background-color: red;
+  height: 70px;
+}
+#color{
+  background-color: red;
+  height: 70px;
 }
