@@ -4,13 +4,13 @@ h1{
   text
 }
 body{
-  background-color: black;background-image: -webkit-radial-gradient(blue)
-
+  background-color: black;
 }
       
 h4{
  text-align: center;
  color: white;
+
 }
 .info p, h3{
 text-align: center;
@@ -32,5 +32,4 @@ img{
 }
 #color{
   background-color: red;
-  height: 70px;
 }
