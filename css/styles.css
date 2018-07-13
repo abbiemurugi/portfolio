@@ -1,20 +1,19 @@
 h1{
-  color: blue;
+  color: brown;
   text-align:center;
 }
 
-body{
-        background:url("../image/dj.png");
-        background-image:cover;
-}
+      
 h4{
-text-align: center
+ text-align: center;
 }
-.info p{
-text-align: center
+.info p, h3{
+text-align: center;
+
 }  
 .me{
   text-align: center;
   float: left;
+  text-decoration-color:white;
 }    
 

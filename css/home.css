@@ -1,10 +1,6 @@
-  /*background: url(http://www.wallpapers-web.com/data/out/84/4480516-frozen-moon-wallpapers.jpg);
-  background-size: 100% 100;
-  background-repeat:no-repeat;*/
-}
 h1{
   text-align: center;
 }
-/*background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSBdKX-kcYq-WjSRob-N9fdiIM-TEU-t_bG3Y_VQGWUfsp5QQRg)*/
-
-  background :url(https: //encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSBdKX-kcYq-WjSRob-N9fdiIM-TEU-t_bG3Y_VQGWUfsp5QQRg)
+body{
+  background-image: url("../image/yeh.jpeg");
+}
