@@ -7,6 +7,9 @@ Abigail Murugi
 ## description
 This is my portfolio which contains my background as a developer including the projects i have done so far and also the list of things i like.
 
+##Live Demo
+https://abbiemurugi.github.io/portfol…
+
 ## Setup used
 * A PC
 * internet connectivity
